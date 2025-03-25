@@ -70,7 +70,6 @@ pip install -r requirements.txt
 - Exploring additional POS-based ratios to improve classification accuracy.
 - Testing the model on a broader set of corpora.
 - Applying other machine learning algorithms to evaluate performance enhancements.
-- Implementing explainability techniques to better understand the linguistic significance of features.
 
 ## References
 
